@@ -1,4 +1,5 @@
 **1.Gate_AND**
+
 ![Gate_AND](Schémas/Gate_and.png)
 
 **2.Gate_OR**
