@@ -1,5 +1,6 @@
 **1.Gate_AND**
-![Gate_AND](Schémas/Gate_and.png)
+
+![Gate_AND](Schémas/Gate_AND.png)
 
 **2.Gate_OR**
 
@@ -9,10 +10,10 @@
 
 ![Gate_NOR](Schémas/Gate_NOR.png)
 
-**4.Multiplex_2a1**
+**4.Multiplexer_4a1**
 
-![Multiplex_4a1](Schémas/Multiplex_4a1.png)
+![Multiplexer_4a1](Schémas/Multiplexer_4a1.png)
 
 **5.Demi_Additionneur_1bit**
 
-![Multiplex_4a1](Schémas/Demi_Additionneur_1bit.png)
+![Demi_Additionneur_1bit](Schémas/Demi_Additionneur_1bit.png)
