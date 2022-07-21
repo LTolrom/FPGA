@@ -1,3 +1,5 @@
+***HDL***
+
 **Livres:**
 
 [Programing by example](programming_by_example.pdf)
@@ -8,7 +10,6 @@
 
 [The Designer's Guide to VHDL](The-Designers-Guide-to-VHDL.pdf)
 
-
 **Udemy:**
 
 Introduction au lagage VHDL: 34 Exercices corrigés
@@ -17,5 +18,20 @@ https://www.udemy.com/course/introduction-au-langage-vhdl-34-exercices-corrigees
 Learn VHDL and FPGA Development:
 https://www.udemy.com/course/vhdl-and-fpga-development-for-beginners-and-intermediates/learn/lecture/4394164?start=90#reviews
 
+
+
+
+***HLS***
+
+**Udemy:**
+
 Function Acceleration on FPGA with Vitis-Part1:Fundamental
 https://www.udemy.com/course/function-acceleration-on-fpga-with-vitis-part-1-fundamental/learn/lecture/27511866?start=0#questions
+
+High-Level Synthesis for FPGA, Part 1-Combinational Circuits
+https://www.udemy.com/course/hls-combinational-circuits/
+
+High-Level Synthesis for FPGA, Part 2-Sequential Circuits
+https://www.udemy.com/course/high-level-synthesis-for-fpga-part-2-sequential-circuits/
+
+
