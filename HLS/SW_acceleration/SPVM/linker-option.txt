@@ -1,0 +1,2 @@
+for ZYNQ MPSoC (Ultra96v2, ZCU102, ...)    --->   --connectivity.sp spmv_kernel_1.m_axi_gmem_0:HPC0 --connectivity.sp spmv_kernel_1.m_axi_gmem_1:HPC1
+for ZYNQ SoC    (ZyboZ720, ...)            --->   --connectivity.sp spmv_kernel_1.m_axi_gmem_0:HP0 --connectivity.sp spmv_kernel_1.m_axi_gmem_1:HP1
